@@ -1,0 +1,7 @@
+ what is + operator
+ 
+ In the form of string it work as concatinstion 
+ In the form of int it work as plus/add operator
+ 
+ system.out.println(); -  // print and new line
+ system.out.print();   -  // print
